@@ -1,0 +1,11 @@
+torch
+argparse
+torchvision
+numpy
+Pillow
+tqdm
+sklearn
+torchsummary
+torchviz
+matplotlib
+pandas
